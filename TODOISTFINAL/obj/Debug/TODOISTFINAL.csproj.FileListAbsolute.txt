@@ -1,0 +1,16 @@
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\bin\Debug\TODOISTFINAL.exe.config
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\bin\Debug\TODOISTFINAL.exe
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\bin\Debug\TODOISTFINAL.pdb
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.Form1.resources
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.Properties.Resources.resources
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.exe
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.pdb
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\bin\Debug\Database1.mdf
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.Form2.resources
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.Form3.resources
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.Form4.resources
+C:\Users\kevin\source\repos\TODOISTFINAL\TODOISTFINAL\obj\Debug\TODOISTFINAL.Form5.resources
